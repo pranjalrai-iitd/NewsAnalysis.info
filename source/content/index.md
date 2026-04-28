@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Daily News Analysis - I.I.S. 2009, 2024 & 2025 Batch!
 ---
 
 Hello world!
