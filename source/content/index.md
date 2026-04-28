@@ -22,9 +22,9 @@ This portal presents the daily news analysis reports for the IIS (Indian Informa
 ---
 
 ## SOCIAL MEDIA DUTIES - Trimester II, Week 7
-LinkedIn - *Sh. Mohit Singh*
-Instagram - *Sh. Alan Siby*
-X (Formerly Twitter) - *Ms. Kulye Shrushti Suresh*
+- LinkedIn - *Sh. Mohit Singh*
+- Instagram - *Sh. Alan Siby*
+- X (Formerly Twitter) - *Ms. Kulye Shrushti Suresh*
 
 ---
 
