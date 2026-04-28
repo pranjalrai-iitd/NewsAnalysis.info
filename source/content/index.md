@@ -1,10 +1,20 @@
 ---
-title: Daily News Analysis
+title: Daily News Analysis - IIS Group 'A'
+---
 ---
 
-## IIS (Indian Information Service)
-## Batch of 2009, 2024 and 2025
-## Daily News Analysis
+This portal presents the daily news analysis reports for the IIS (Indian Information Service) induction training 2026, whose participants are officer trainees of 2009, 2024 and 2025 batch. 
+The news analysis starts dailhy at 09:45 hrs sharp (except on days of official visits).
+
+---
+Current CR - Ms. Brinda Randeep Sudan
+---
+Social Media Duty - Trimester II, Week 7
+- LinkedIn - Sh. Mohit Singh
+- Instagram - Sh. Alan Siby
+- X (Formerly Twitter) - Ms. Kulye Shrushti Suresh
+---
+Daily News Analysis Reports
 
 |     Newspaper     |       Date       |  Edition  |       Analysis       |
 | :---------------: | :--------------: | :-------: | :------------------: |
