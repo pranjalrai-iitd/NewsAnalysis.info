@@ -6,7 +6,7 @@ This portal presents the daily news analysis reports for the IIS (Indian Informa
 
 ---
 
-CURRENT CR - Ms. Brinda Randeep Sudan
+CURRENT CR: *Ms. Brinda Randeep Sudan*
 
 ---
 
@@ -20,8 +20,9 @@ DAILY NEWS REPORTS
 ---
 
 SOCIAL MEDIA DUTY - Trimester II, Week 7
-- <u>LinkedIn:</u> Sh. Mohit Singh
-- <u>Instagram:</u>  Sh. Alan Siby
-- <u>X (Formerly Twitter):</u> Ms. Kulye Shrushti Suresh
+- LinkedIn: *Sh. Mohit Singh*
+- Instagram:  *Sh. Alan Siby*
+- X (Formerly Twitter): *Ms. Kulye Shrushti Suresh*
+
 
 
