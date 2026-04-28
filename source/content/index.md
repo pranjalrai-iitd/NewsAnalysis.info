@@ -1,7 +1,10 @@
 ---
-title: Daily News Analysis - I.I.S. 2009, 2024 & 2025 Batch!
+title: Daily News Analysis
 ---
 
-Hello world!
+## IIS (Indian Information Service)
+## Batch of 2009, 2024 and 2025
+## Daily News Analysis
 
-Write some words here!
+- Indian Express April 28th 2026 - [IE Apr 28]
+- Indian Express April 29th 2026 - [IE Apr 29]
